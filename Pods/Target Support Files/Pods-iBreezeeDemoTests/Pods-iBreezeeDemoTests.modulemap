@@ -1,0 +1,6 @@
+framework module Pods_iBreezeeDemoTests {
+  umbrella header "Pods-iBreezeeDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
